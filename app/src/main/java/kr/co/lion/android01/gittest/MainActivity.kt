@@ -9,6 +9,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var a1 = 10
+        var a2 = 20
+        var a3 = 30
 
     }
 }
